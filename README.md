@@ -1,6 +1,6 @@
 # Frontend Mentor - Expenses chart component solution
 
-This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -33,14 +33,18 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [live site URL ](https://calm-piroshki-21284b.netlify.app/)
-- Github URL: [Git](https://github.com/Sittisukintaruk/results-summary-component-main)
+- Live Site URL: [live site URL ](https://648af1ab0ba7ea00939108d1--glittery-gecko-039f55.netlify.app/)
+- Github URL: [Git](https://github.com/Sittisukintaruk/Frontend-Mentor---Expenses-chart-component-solution)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- styled component
+- framer motion (for animation)
+- react
+- vite
 
 ## Author
 
